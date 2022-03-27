@@ -1,6 +1,6 @@
 # laptop-chooser
 
-# []Live Site Link](https://glittery-zuccutto-640fb4.netlify.app/).
+# [Live Site Link](https://glittery-zuccutto-640fb4.netlify.app/).
 
 ## Available Scripts
 
