@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# laptop-chooser
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# []Live Site Link](https://glittery-zuccutto-640fb4.netlify.app/).
 
 ## Available Scripts
 
